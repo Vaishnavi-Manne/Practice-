@@ -1,2 +1,4 @@
 # Practice-
-Learning Git and GitHub
+Learning Git and GitHuB <br>
+Basic Commands
+
